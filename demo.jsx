@@ -5,8 +5,7 @@ const Table = () => (
     <thead>
       <tr>
         <th>Column A</th>
-        <th>Column B</th>
-        <th>Column C</th>
+      
         <th>Column D</th>
       </tr>
     </thead>
